@@ -1,1 +1,1 @@
-Início da minha jornada em C++ na faculdad.
+Início da minha jornada em C++ na faculdade.
